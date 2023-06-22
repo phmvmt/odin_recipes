@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    color: rgb(174, 130, 63);
+}
+
+img {
+    width: 250px;
+    height: auto;
+}
+
+h2 {
+    text_align: right;
+    color: rgb(123, 77, 7);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    color:rgb(15, 216, 216);
+}
+
+h3 {
+    color: rgb(176, 97, 97);
+    text-align: justify;
+}
+
+li {
+    text-align: justify;
+    color: rgb(113, 113, 56);
+}
